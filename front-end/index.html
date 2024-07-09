@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Me Ajuda AI</title>
+    <link rel="icon" type="image/x-icon" href="./img/liv3.png">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <div class="popup-container minimized" id="chatContainer">
+        <div class="popup-header">
+            <div>
+                <h1>Indica AI</h1>
+                <div class="legend">
+                    <p>@Anota</p>
+                    <p>@Ifood</p>
+                    <p>@105</p>
+                </div>
+            </div>
+
+            <button id="button-minimize" onclick="toggleMinimize()" aria-label="Minimizar"></button>
+        </div>
+        <div class="popup-body">
+            <div class="chat-box" id="chatBox">
+
+            </div>
+
+            <div class="chat-input">
+                <div class="container-loader">
+                    <span class="loader" id="loader1" style="display: none;"></span>
+                </div>
+                <div class="chat-input-main">
+                    <input type="text" autocomplete="off" id="userInput" placeholder="Digite sua mensagem..."
+                        aria-label="Digite sua mensagem">
+                    <button onclick="buttonClick()" id="button-send" aria-label="Enviar mensagem">
+                        <img src="./img/send.png" alt="Enviar">
+                    </button>
+                </div>
+
+                <div class="chat-input-buttons">
+                    <button class="chat-input-buttons-button" id="recordButton" onclick="toggleRecording()"
+                        aria-label="Iniciar gravação"><img src="./img/mic2.png" alt="Microfone">
+                    </button>
+
+                    <button class="chat-input-buttons-button" id="ouvirTextos" aria-label="Ouvir textos">
+                        <img src="./img/hearing2.png" alt="Ouvir">
+                    </button>
+
+                    <button class="chat-input-buttons-button" id="alterarContraste" aria-label="Alterar contraste"><img
+                            src="./img/contrast2.png" alt="Alterar contraste">
+                    </button>
+
+                    <button class="chat-input-buttons-button" id="alterarTamanho" aria-label="Alterar tamanho do texto">
+                        <img src="./img/zoom.png" alt="Zoom">
+                    </button>
+                </div>
+
+            </div>
+        </div>
+        <div class="minimize-button" onclick="toggleMinimize()" aria-label="Minimizar janela de chat">
+            <img class="img-chat" src="./img/chat.png" alt="Chat" srcset="">
+        </div>
+    </div>
+
+    <script src="js/index.js"></script>
+</body>
+
+</html>

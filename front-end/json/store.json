@@ -1,0 +1,36 @@
+{
+    "menu": [{
+            "category": "Hambúrguers",
+            "description": "Queijo cheddar, alface, tomate, molho especial e picanha",
+            "img": "https://meucardapio.com/hamburgueres/picanha.png",
+            "item": "Hambúrguer de Picanha",
+            "price": 36.99,
+            "tags": ["salgado", "salgados", "salgada", "salgadas", "carne", "gado", "rês", "bovino", "bovina", "picanha", "hambúrguer", "hambúrgueres", "burguer", "burguers", "burger", "burgers"],
+            "url": "https://meucardapio.com/hamburgueres/picanha"
+        }, {
+            "category": "Hamburguers",
+            "description": "Molho barbecue, cebola roxa, picles e costela",
+            "img": "https://meucardapio.com/hamburgueres/costelabbq.png",
+            "item": "Hambúrguer de Costela BBQ",
+            "price": 32.99,
+            "tags": ["salgado", "salgados", "salgada", "salgadas", "carne", "gado", "rês", "bovino", "bovina", "costela", "hambúrguer", "hambúrgueres", "burguer", "burguers", "burger", "burgers"],
+            "url": "https://meucardapio.com/hamburgueres/costelabbq"
+        }, {
+            "category": "Pastéis",
+            "description": "Pastel recheado com carne bovina",
+            "img": "https://meucardapio.com/pasteis/carnebovina.png",
+            "item": "Pastel de Carne",
+            "price": 15.50,
+            "tags": ["salgado", "salgados", "salgada", "salgadas", "pastel", "pastéis", "frito", "frita", "fritura", "carne", "gado", "rês", "bovino", "bovina"],
+            "url": "https://meucardapio.com/pasteis/carnebovina"
+        }, {
+            "category": "Pastéis",
+            "description": "Pastel recheado com carne de frango",
+            "img": "https://meucardapio.com/pasteis/frango.png",
+            "item": "Pastel de Frango",
+            "price": 13.50,
+            "tags": ["salgado", "salgados", "salgada", "salgadas", "pastel", "pastéis", "frito", "frita", "fritura", "carne", "frango", "galinha", "ave"],
+            "url": "https://meucardapio.com/pasteis/frango"
+        }
+    ]
+}

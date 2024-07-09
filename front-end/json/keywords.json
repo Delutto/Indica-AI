@@ -1,0 +1,33 @@
+{
+    "keywords":
+	[	
+		"promoção", "promoções", "promocional", "promocionais", "desconto", "descontos", "barato", "baratos", "barata", "baratas", "pechincha", "combo", "combos",
+		
+		"salgado", "salgados", "salgada", "salgadas",
+		"doce", "doces", "sobremesa", "sobremesas", "açucarado",
+		"vegetariano", "vegetarianos", "vegetariana", "vegetarianas", "vegano", "veganos", "vegana", "veganas", "veggie",
+		
+		"assado", "assados", "assada", "assadas",
+		"frito", "fritos", "frita", "fritas", "fritura",
+		"cozido", "cozidos", "cozida", "cozidas",
+		
+		
+		"gelado", "gelados", "gelada", "geladas", "frio", "frios", "fria", "frias",
+		"glútem", "lactose", "orgânico", "orgânicos", "orgânica", "orgânicas", "sem açucar", "zero", "light", "diet", "natural", "naturais", "alcoólica", "alcoólicas",
+		
+		"lanche", "lanches", "lanchinho", "lanchinhos", "lanchezinho", "lanchezinhos",
+		"sanduíche", "sanduíches", "sanduba", "sandubas",
+		"pizza", "pizzas", "focaccia", "focaccias", "lenha",
+		"pastel", "pastéis", "folhado", "folhados", "folhada", "folhadas",
+		"hambúrguer", "hambúrgueres", "burguer", "burguers", "burger", "burgers",
+		"cachorro-quente", "cachorro quente", "cachorros-quentes", "cachorros quentes", "hotdog", "hotdogs", "hot dog", "hot dogs",
+		"calzone", "calzones", 
+		"esfiha", "esfihas",
+		"porção", "porções",
+		"açaí", "açaís",
+		"sorvete", "sorvetes",
+		"bebida", "bebidas", "refrigerante", "refrigerantes", "refri", "refris", "suco", "sucos", "cerveja", "cervejas", "vinho", "vinhos",
+		
+		"carne", "gado", "rês", "bovino", "bovina", "frango", "galinha", "ave", "porco", "suíno", "suína", "linguiça", "salsicha", "queijo", "calabresa", "filé", "picanha", "costela", "presunto"
+	]
+}
